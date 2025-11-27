@@ -1,2 +1,2 @@
 # projet 1
-description de mon projet
+C'est un essai d'un petit projet pour utiliser Git avec GitHub.
